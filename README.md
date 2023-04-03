@@ -4,6 +4,8 @@
 <img src="./IMG_4369.JPG" art="image" />
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">Skype : live:.cid.3b35a1878c330474</h4>
+<h4 align="left">Phone : +1 530 289 6809</h4>
 <p align="left">
 </p>
 
